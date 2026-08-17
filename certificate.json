@@ -1,3 +1,31 @@
 {
-  "certificate": "-----BEGIN CERTIFICATE-----\nMIIDNTCCAh2gAwIBAgIUC/kS3+T641i4BIE4wxhViVS4BYgwDQYJKoZIhvcNAQEL\nBQAwKDESMBAGA1UEAwwJbWl0bXByb3h5MRIwEAYDVQQKDAltaXRtcHJveHkwHhcN\nMjYwODEyMDgyNDE0WhcNMzYwODExMDgyNDE0WjAoMRIwEAYDVQQDDAltaXRtcHJv\neHkxEjAQBgNVBAoMCW1pdG1wcm94eTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC\nAQoCggEBAOf/U3VrrA1vYX/+nVrr/X7xzgGrhMSeEbwOKDxzJpGxfhY/VK7A/B92\nveIRhL1XKsC1R0VMFvDoakPL60+5CtA2PDQmRkHr1mVo7v7+EPK+tYosjqWphwk7\nYLtjm+YIV6yZYh4uzrGEoSsRrx+kdkxVkXHiURCxvmstkMo1TNLgAXoQH2AeaELq\nrQkxWrlEVH36MPk8W513ScYItlZEK0TlzPIxaMp0wWm3NsmVc7yggz3BFPf2A2/3\nWnbzKYjXoAwq1TrWogZsPGS7phz4zi9zvxBmuUsm7JRxBI7SyRl5xWSllLjmzMA0\ngZEKrbX5mgW5+rFcfu9lCu5H/fWuR8MCAwEAAaNXMFUwDwYDVR0TAQH/BAUwAwEB\n/zATBgNVHSUEDDAKBggrBgEFBQcDATAOBgNVHQ8BAf8EBAMCAQYwHQYDVR0OBBYE\nFN6X2FTw+oXkY8GX2qSnOOo/iWvsMA0GCSqGSIb3DQEBCwUAA4IBAQAwbf/eR6Jj\n4a5OWGEg5+ptjt+Z6FUJhr0yICWTynWu6NT7/YMcUujzKwiEldyX+qxPjedT2ajB\nYXdKhVma33wOfKFK6ZCVTQMbKVXfy+1KwnfyIQv2xxCFI5qc6Q8WQgwOH2PZP3vh\nwSekNh7uy6Bj2Py+HQWPKo9oSYtyijwujCzDTlB2DCDMZnujmSe3NUDxABGuBna5\ngn6auxgj9Np0jX1TwRfDiCSnPcBJYQ2SBqa6gB39l5ivQVurAbLGkMIrCMaxK98D\nApzqgmQMhC9OWiicsWNc/lHcI3Q53U767PT1TjZjTMrIP+JKKzD8Xahhdjm2h5A2\n4OOA6p6i3okV\n-----END CERTIFICATE-----"
+    "certificate":  {
+                        "value":  "-----BEGIN CERTIFICATE-----\nMIIDNTCCAh2gAwIBAgIUO+GL3FXzeLEd7Cqo981JDjjXcTwwDQYJKoZIhvcNAQEL\nBQAwKDESMBAGA1UEAwwJbWl0bXByb3h5MRIwEAYDVQQKDAltaXRtcHJveHkwHhcN\nMjYwODE1MjE0NzA1WhcNMzYwODE0MjE0NzA1WjAoMRIwEAYDVQQDDAltaXRtcHJv\neHkxEjAQBgNVBAoMCW1pdG1wcm94eTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC\nAQoCggEBAKQZe3mlhzkfus0OHL15wCsbVtwojDRYBUBa9PqfYVHDuH6Ne8ZNmoiU\nppaUiPaNwfojw1YWTXu4IrmPOZfnWA8MZU5WrayYxJSCqUHPjqZryKKmFjpywXjT\n1mOE6G9YJgk8mwblFnhLkVBbpov8fHUCTWmAMwUJPLL7piN1H10gopTWrpJBLeig\nVqUfHNqnTzSr3RzKWOo047bpJz40wL+FhRbA9O22OClUesAQeEe1+y1QL5YB5Mj1\ncR5yiFLWTtFz8HrlrAp0UA9opnk+CCJDLnaCpnzfg251M3vMHtBg2NEo3WuHNzht\nJ/XmSg9pcOKRIcSZGyYDzxitB4HaQuUCAwEAAaNXMFUwDwYDVR0TAQH/BAUwAwEB\n/zATBgNVHSUEDDAKBggrBgEFBQcDATAOBgNVHQ8BAf8EBAMCAQYwHQYDVR0OBBYE\nFDSNlGZ2AVqiF2gRruKdxCKaiGuyMA0GCSqGSIb3DQEBCwUAA4IBAQA+cqIXT/OM\nx9/6HXlfjSABvXfRQp6nLq52xzh4UlyA/gyvRCDhXko+viT35UvGL/ILcISmKX6V\nzTByVgHjLVQIOMg1UeSTCr0gI8MYHD8L5OtSGi0k2Zdg998en6OrXf2WT7KP1ZE8\nUlib+R/1AO7n8XRb8wyScL7vTPH8q2or8u08NNEFaJrXcYx9ESKtOK0OQPwFJhqN\nNzLtKZJwreBaWbUzDr68AL5d/sg4xkqpfy6RHBrg7L6XVSmpIPZnwgdV9l9WEJAX\neLVqNvHYAR0CA/HZnaldmqCULdsV/SHASBetKN2FPVD2dJdoUU3ajGUlMzofH1Ol\nvbDBCCD0nIPL\n-----END CERTIFICATE-----\n",
+                        "PSPath":  "C:\\Users\\pc\\Desktop\\PROJECTS\\mitmproxy-ca-cert.pem",
+                        "PSParentPath":  "C:\\Users\\pc\\Desktop\\PROJECTS",
+                        "PSChildName":  "mitmproxy-ca-cert.pem",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\pc\\Desktop\\Aimkill",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\pc",
+                                           "Drives":  "C D"
+                                       },
+                        "ReadCount":  1
+                    }
 }
