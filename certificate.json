@@ -1,31 +1,21 @@
-{
-    "certificate":  {
-                        "value":  "-----BEGIN CERTIFICATE-----\nMIIDNTCCAh2gAwIBAgIUO+GL3FXzeLEd7Cqo981JDjjXcTwwDQYJKoZIhvcNAQEL\nBQAwKDESMBAGA1UEAwwJbWl0bXByb3h5MRIwEAYDVQQKDAltaXRtcHJveHkwHhcN\nMjYwODE1MjE0NzA1WhcNMzYwODE0MjE0NzA1WjAoMRIwEAYDVQQDDAltaXRtcHJv\neHkxEjAQBgNVBAoMCW1pdG1wcm94eTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC\nAQoCggEBAKQZe3mlhzkfus0OHL15wCsbVtwojDRYBUBa9PqfYVHDuH6Ne8ZNmoiU\nppaUiPaNwfojw1YWTXu4IrmPOZfnWA8MZU5WrayYxJSCqUHPjqZryKKmFjpywXjT\n1mOE6G9YJgk8mwblFnhLkVBbpov8fHUCTWmAMwUJPLL7piN1H10gopTWrpJBLeig\nVqUfHNqnTzSr3RzKWOo047bpJz40wL+FhRbA9O22OClUesAQeEe1+y1QL5YB5Mj1\ncR5yiFLWTtFz8HrlrAp0UA9opnk+CCJDLnaCpnzfg251M3vMHtBg2NEo3WuHNzht\nJ/XmSg9pcOKRIcSZGyYDzxitB4HaQuUCAwEAAaNXMFUwDwYDVR0TAQH/BAUwAwEB\n/zATBgNVHSUEDDAKBggrBgEFBQcDATAOBgNVHQ8BAf8EBAMCAQYwHQYDVR0OBBYE\nFDSNlGZ2AVqiF2gRruKdxCKaiGuyMA0GCSqGSIb3DQEBCwUAA4IBAQA+cqIXT/OM\nx9/6HXlfjSABvXfRQp6nLq52xzh4UlyA/gyvRCDhXko+viT35UvGL/ILcISmKX6V\nzTByVgHjLVQIOMg1UeSTCr0gI8MYHD8L5OtSGi0k2Zdg998en6OrXf2WT7KP1ZE8\nUlib+R/1AO7n8XRb8wyScL7vTPH8q2or8u08NNEFaJrXcYx9ESKtOK0OQPwFJhqN\nNzLtKZJwreBaWbUzDr68AL5d/sg4xkqpfy6RHBrg7L6XVSmpIPZnwgdV9l9WEJAX\neLVqNvHYAR0CA/HZnaldmqCULdsV/SHASBetKN2FPVD2dJdoUU3ajGUlMzofH1Ol\nvbDBCCD0nIPL\n-----END CERTIFICATE-----\n",
-                        "PSPath":  "C:\\Users\\pc\\Desktop\\PROJECTS\\mitmproxy-ca-cert.pem",
-                        "PSParentPath":  "C:\\Users\\pc\\Desktop\\PROJECTS",
-                        "PSChildName":  "mitmproxy-ca-cert.pem",
-                        "PSDrive":  {
-                                        "CurrentLocation":  "Users\\pc\\Desktop\\Aimkill",
-                                        "Name":  "C",
-                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
-                                        "Root":  "C:\\",
-                                        "Description":  "",
-                                        "MaximumSize":  null,
-                                        "Credential":  "System.Management.Automation.PSCredential",
-                                        "DisplayRoot":  null
-                                    },
-                        "PSProvider":  {
-                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
-                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
-                                           "Name":  "FileSystem",
-                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
-                                           "ModuleName":  "Microsoft.PowerShell.Core",
-                                           "Module":  null,
-                                           "Description":  "",
-                                           "Capabilities":  52,
-                                           "Home":  "C:\\Users\\pc",
-                                           "Drives":  "C D"
-                                       },
-                        "ReadCount":  1
-                    }
-}
+{"certificate": "-----BEGIN CERTIFICATE-----
+MIIDNTCCAh2gAwIBAgIUO+GL3FXzeLEd7Cqo981JDjjXcTwwDQYJKoZIhvcNAQEL
+BQAwKDESMBAGA1UEAwwJbWl0bXByb3h5MRIwEAYDVQQKDAltaXRtcHJveHkwHhcN
+MjYwODE1MjE0NzA1WhcNMzYwODE0MjE0NzA1WjAoMRIwEAYDVQQDDAltaXRtcHJv
+eHkxEjAQBgNVBAoMCW1pdG1wcm94eTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAKQZe3mlhzkfus0OHL15wCsbVtwojDRYBUBa9PqfYVHDuH6Ne8ZNmoiU
+ppaUiPaNwfojw1YWTXu4IrmPOZfnWA8MZU5WrayYxJSCqUHPjqZryKKmFjpywXjT
+1mOE6G9YJgk8mwblFnhLkVBbpov8fHUCTWmAMwUJPLL7piN1H10gopTWrpJBLeig
+VqUfHNqnTzSr3RzKWOo047bpJz40wL+FhRbA9O22OClUesAQeEe1+y1QL5YB5Mj1
+cR5yiFLWTtFz8HrlrAp0UA9opnk+CCJDLnaCpnzfg251M3vMHtBg2NEo3WuHNzht
+J/XmSg9pcOKRIcSZGyYDzxitB4HaQuUCAwEAAaNXMFUwDwYDVR0TAQH/BAUwAwEB
+/zATBgNVHSUEDDAKBggrBgEFBQcDATAOBgNVHQ8BAf8EBAMCAQYwHQYDVR0OBBYE
+FDSNlGZ2AVqiF2gRruKdxCKaiGuyMA0GCSqGSIb3DQEBCwUAA4IBAQA+cqIXT/OM
+x9/6HXlfjSABvXfRQp6nLq52xzh4UlyA/gyvRCDhXko+viT35UvGL/ILcISmKX6V
+zTByVgHjLVQIOMg1UeSTCr0gI8MYHD8L5OtSGi0k2Zdg998en6OrXf2WT7KP1ZE8
+Ulib+R/1AO7n8XRb8wyScL7vTPH8q2or8u08NNEFaJrXcYx9ESKtOK0OQPwFJhqN
+NzLtKZJwreBaWbUzDr68AL5d/sg4xkqpfy6RHBrg7L6XVSmpIPZnwgdV9l9WEJAX
+eLVqNvHYAR0CA/HZnaldmqCULdsV/SHASBetKN2FPVD2dJdoUU3ajGUlMzofH1Ol
+vbDBCCD0nIPL
+-----END CERTIFICATE-----
+"}
